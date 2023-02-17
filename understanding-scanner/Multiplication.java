@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Try{
+public class Multiplication{
     public static void main(String[] args){
         System.out.println("Enter the number: ");
         Scanner obj= new Scanner(System.in);
